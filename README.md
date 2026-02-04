@@ -1,4 +1,4 @@
-LLVM "test-suite" Repository
+"LLVM lit"
 ----------------------------
 
 Please see the LLVM testing infrastructure guide:
